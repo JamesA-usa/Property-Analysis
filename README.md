@@ -28,7 +28,3 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
 
 ---
 
-### Methodology
-
-```text
-NDVI = (Band 4 - Band 3) / (Band 4 + Band 3)
