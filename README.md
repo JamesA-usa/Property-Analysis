@@ -15,7 +15,8 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
 ---
 
 ### Data Source
-- Pan-sharpened satellite imagery (WorldView multispectral)
+- Pan-sharpened satellite imagery (WorldView pan-sharpened multispectral)
+- Collection date: 16 July 2025
 - 4-band imagery:
   - Band 1: Not Displayed  
   - Band 2: Green  
