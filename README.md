@@ -18,8 +18,8 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
 - Pan-sharpened satellite imagery (WorldView multispectral)
 - 4-band imagery:
   - Band 1: Not Displayed  
-  - Band 2: Blue  
-  - Band 3: Green  
+  - Band 2: Green  
+  - Band 3: Red  
   - Band 4: Near Infrared (NIR)
  
   ----
