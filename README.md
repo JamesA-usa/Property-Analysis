@@ -24,7 +24,7 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
  
   ----
  
-  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Property-Analysis/blob/main/Normalized%20Difference%20Vegetation%20Index.jpg">
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Property-Analysis/blob/main/Normalized%20Difference%20Vegetation%20Index2.jpeg">
 
 ---
 
