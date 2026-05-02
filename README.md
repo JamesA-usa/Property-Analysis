@@ -15,9 +15,9 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
 ---
 
 ### Data Source
-- High-resolution satellite imagery (WorldView multispectral)
+- Pan-sharpened satellite imagery (WorldView multispectral)
 - 4-band imagery:
-  - Band 1: N/A  
+  - Band 1: Not Displayed  
   - Band 2: Blue  
   - Band 3: Green  
   - Band 4: Near Infrared (NIR)
@@ -29,15 +29,6 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
 ---
 
 ### Methodology
-
-#### 1. Data Preparation
-- Imported multispectral raster into QGIS
-- Verified band configuration:
-  - Red = Band 3  
-  - NIR = Band 4  
-
-#### 2. NDVI Calculation
-Used Raster Calculator with the formula:
 
 ```text
 NDVI = (Band 4 - Band 3) / (Band 4 + Band 3)
