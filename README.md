@@ -22,6 +22,8 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
   - Band 3: Green  
   - Band 4: Near Infrared (NIR)
  
+  --
+ 
   <img width="1000" alt="image" src="https://github.com/JamesA-usa/Property-Analysis/blob/main/Normalized%20Difference%20Vegetation%20Index.jpg">
 
 ---
