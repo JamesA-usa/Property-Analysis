@@ -21,6 +21,8 @@ Evaluate vegetation health and landscape quality surrounding the property to enh
   - Band 2: Blue  
   - Band 3: Green  
   - Band 4: Near Infrared (NIR)
+ 
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/cfc5dbcf-3fcb-4a71-9c13-2a49f8bab3e6">
 
 ---
 
